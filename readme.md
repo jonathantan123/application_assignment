@@ -26,6 +26,18 @@ The finished project:
 
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
 
+## How To Run 
+1) Open Terminal and type "npm i random-movie-quotes"  to install random movie quote pacakge
+
+2) Type "npm install" to install all necessary pacakges
+
+3) type "node index.js" to execute code/ start 
+
+4) Open browser and navigate to http://localhost:3000/ to view page 
+
+
+
+
 ## References
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
